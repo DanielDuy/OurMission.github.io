@@ -148,7 +148,7 @@ body {
 
 @media only screen and (min-width: 1030px) {
     .todaysproblem {
-        width: 48%;
+        width: 50%;
         float: left;
         margin-top: 10%;
         margin-bottom: 24%;
@@ -180,6 +180,7 @@ body {
         margin-top: 2%;
         text-align: left;
         margin-left: 80px;
+        float: left;
     }   
 
     .thesolution p {
