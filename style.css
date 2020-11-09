@@ -209,7 +209,7 @@ body {
 
     .makers {
         margin-top: 70%;
-        
+        width: 100%;
     }
 
     .makers p {
@@ -291,8 +291,6 @@ body {
 
     .makers {
         margin-top: 50%;
-        width: 100%;
-        
     }
 
     .makers p {
